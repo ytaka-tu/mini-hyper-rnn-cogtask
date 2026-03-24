@@ -68,14 +68,7 @@ This code was prepared and tested with the following environment:
 - `torch 1.13.1`
 - `functorch 1.13.1`
 
-The main Python dependencies are:
-
-- `numpy==1.23.2`
-- `matplotlib==3.9.2`
-- `torch==1.13.1`
-- `functorch==1.13.1`
-
-The package list is provided in `requirements.txt`. Note that the runtime environment used here reported `torch 1.13.1+cu117` and `functorch 1.13.1+cu117`; the pinned package versions in `requirements.txt` correspond to the same major/minor tested versions.
+The pinned package versions are listed in `requirements.txt`. Note that the runtime environment used here reported `torch 1.13.1+cu117` and `functorch 1.13.1+cu117`; the pinned versions in `requirements.txt` correspond to the same major/minor tested versions.
 
 ## Training Logic
 
