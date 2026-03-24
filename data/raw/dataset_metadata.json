@@ -1,0 +1,15 @@
+{
+  "seed": 4,
+  "train_size": 640,
+  "test_size": 64,
+  "seq_len": 48,
+  "stimulus_dim": 9,
+  "action_dim": 3,
+  "bldi_dim": 4,
+  "bld_dim": 64,
+  "hidden_size": 16,
+  "hypnet_mid1": 64,
+  "hypnet_mid2": 64,
+  "teacher_latent_dim": 4,
+  "dataset_file": "tiny_hyper_rnn_dataset.npz"
+}

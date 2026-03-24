@@ -1,0 +1,7 @@
+outputs/*.pt
+outputs/*.png
+outputs/*.json
+outputs/fig/
+
+# Keep the tiny shared dataset.
+!data/raw/

@@ -1,0 +1,4 @@
+numpy==1.23.2
+matplotlib==3.9.2
+torch==1.13.1
+functorch==1.13.1
