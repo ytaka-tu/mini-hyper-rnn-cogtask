@@ -1,0 +1,39 @@
+{
+  "aligned": {
+    "bold_mse": 0.004429292399436235,
+    "act_bce": 0.12957213819026947,
+    "act_accuracy": 0.955008864402771
+  },
+  "mismatched_bld_mean": {
+    "bold_mse": 0.012753821598986784,
+    "act_bce": 2.3582242727279663,
+    "act_accuracy": 0.7464908361434937
+  },
+  "delta_aligned_minus_mismatched": {
+    "bold_mse": -0.008324529199550549,
+    "act_bce": -2.228652134537697,
+    "act_accuracy": 0.20851802825927734
+  },
+  "mismatched_bld_runs": [
+    {
+      "shift": 1,
+      "bold_mse": 0.013064397498965263,
+      "act_bce": 2.7044572830200195,
+      "act_accuracy": 0.7492243051528931
+    },
+    {
+      "shift": 21,
+      "bold_mse": 0.012871001847088337,
+      "act_bce": 2.3748297691345215,
+      "act_accuracy": 0.742464542388916
+    },
+    {
+      "shift": 32,
+      "bold_mse": 0.012326065450906754,
+      "act_bce": 1.995385766029358,
+      "act_accuracy": 0.7477836608886719
+    }
+  ],
+  "n_test_subjects": 64,
+  "n_generated_figures": 64
+}

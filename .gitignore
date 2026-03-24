@@ -1,7 +1,2 @@
-outputs/*.pt
-outputs/*.png
-outputs/*.json
-outputs/fig/
-
-# Keep the tiny shared dataset.
+# Keep the tiny shared dataset and published outputs.
 !data/raw/

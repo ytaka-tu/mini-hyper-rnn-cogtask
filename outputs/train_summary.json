@@ -1,0 +1,7 @@
+{
+  "best_epoch": 74,
+  "best_val_loss": 0.1254650391638279,
+  "device": "cpu",
+  "train_size_after_split": 512,
+  "val_size": 128
+}
