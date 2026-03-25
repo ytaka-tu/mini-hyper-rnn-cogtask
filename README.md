@@ -128,3 +128,17 @@ The current default settings in `config.py` are:
 - `batch_size = 32`
 
 These values can be adjusted if an even smaller or slightly larger demonstration is needed.
+
+## Citing
+
+If you use this repository, please also cite the published article that introduced the original model and workflow:
+
+```bibtex
+@article{takahashi2025digital,
+  title   = {Digital Twin Brain: Generating Multitask Behavior from Connectomes for Personalized Therapy},
+  author  = {Takahashi, Yuta and Soda, Takafumi and Tomita, Hiroaki and Yamashita, Yuichi},
+  journal = {BMEF},
+  year    = {2025},
+  url     = {https://spj.science.org/doi/10.34133/bmef.0231}
+}
+```
